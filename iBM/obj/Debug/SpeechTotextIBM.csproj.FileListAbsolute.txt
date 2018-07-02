@@ -1,0 +1,10 @@
+C:\Users\albertohernandez\Desktop\iBM\iBM\bin\Debug\iBM.exe.config
+C:\Users\albertohernandez\Desktop\iBM\iBM\bin\Debug\iBM.exe
+C:\Users\albertohernandez\Desktop\iBM\iBM\bin\Debug\iBM.pdb
+C:\Users\albertohernandez\Desktop\iBM\iBM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\albertohernandez\Desktop\iBM\iBM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\albertohernandez\Desktop\iBM\iBM\obj\Debug\SpeechTotextIBM.csprojAssemblyReference.cache
+C:\Users\albertohernandez\Desktop\iBM\iBM\obj\Debug\SpeechTotextIBM.csproj.CoreCompileInputs.cache
+C:\Users\albertohernandez\Desktop\iBM\iBM\obj\Debug\SpeechTotextIBM.csproj.CopyComplete
+C:\Users\albertohernandez\Desktop\iBM\iBM\obj\Debug\iBM.exe
+C:\Users\albertohernandez\Desktop\iBM\iBM\obj\Debug\iBM.pdb
